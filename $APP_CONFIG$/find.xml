@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*Api.kt</mask>
+    <mask>*.xml</mask>
+    <mask>*Usecase*</mask>
+    <mask>*gradle</mask>
+    <mask>*json</mask>
+    <mask>*xml</mask>
+    <mask>*graphql</mask>
+    <mask>*kt</mask>
+    <mask>*Test.kt</mask>
+    <mask>*.gradle</mask>
+    <mask>*Test*</mask>
+  </component>
+</application>
