@@ -1,6 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="open_bff_dev" type="AUTO_DETECTED" />
+      <mapping pattern="open_bff_stage" type="AUTO_DETECTED" />
+      <mapping pattern="open_bff_prod" type="AUTO_DETECTED" />
+      <mapping pattern="as_bff_prod" type="AUTO_DETECTED" />
+      <mapping pattern="doc" type="AUTO_DETECTED" />
+      <mapping pattern="as_bff_stage" type="AUTO_DETECTED" />
+      <mapping pattern="article_compare" type="AUTO_DETECTED" />
+      <mapping pattern="as_bff_dev" type="AUTO_DETECTED" />
+      <mapping pattern="article_screenshot" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
