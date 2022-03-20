@@ -31,6 +31,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="CheckinProject" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="alt #10000a7" />
   </action>
@@ -57,9 +60,11 @@
   </action>
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="Diff.ApplyLeftSide" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
+  <action id="Django.RunManageTaskAction" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
@@ -134,6 +139,9 @@
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="ScrollTreeToCenter" />
