@@ -7,6 +7,7 @@
       <mapping pattern="as_bff_prod" type="AUTO_DETECTED" />
       <mapping pattern="doc" type="AUTO_DETECTED" />
       <mapping pattern="as_bff_stage" type="AUTO_DETECTED" />
+      <mapping pattern="nyheter_lokalt_norrbotten_gruvliga-fragan-kallakkonflikten-pa-60-sekunder" type="AUTO_DETECTED" />
       <mapping pattern="article_compare" type="AUTO_DETECTED" />
       <mapping pattern="nyheter_konsument_" type="AUTO_DETECTED" />
       <mapping pattern="as_bff_dev" type="AUTO_DETECTED" />
