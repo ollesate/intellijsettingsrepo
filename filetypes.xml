@@ -4,6 +4,7 @@
       <mapping pattern="open_bff_dev" type="AUTO_DETECTED" />
       <mapping pattern="open_bff_stage" type="AUTO_DETECTED" />
       <mapping pattern="open_bff_prod" type="AUTO_DETECTED" />
+      <mapping pattern="nyheter_inrikes_avanza-rostar-mot-ansvarsfrihet-for-ericsson-en-stor-besvikelse" type="AUTO_DETECTED" />
       <mapping pattern="as_bff_prod" type="AUTO_DETECTED" />
       <mapping pattern="doc" type="AUTO_DETECTED" />
       <mapping pattern="as_bff_stage" type="AUTO_DETECTED" />
