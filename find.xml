@@ -23,5 +23,6 @@
     <mask>*.kt</mask>
     <mask>*xml</mask>
     <mask>*.kts</mask>
+    <mask>*Activity*</mask>
   </component>
 </application>
