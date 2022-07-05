@@ -24,5 +24,6 @@
     <mask>*.kts</mask>
     <mask>*Activity*</mask>
     <mask>*gradle</mask>
+    <mask>*gradle*</mask>
   </component>
 </application>
