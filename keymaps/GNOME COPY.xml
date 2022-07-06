@@ -45,6 +45,7 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="CollapseRegionRecursively" />
   <action id="Compare.LastVersion">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
