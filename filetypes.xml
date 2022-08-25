@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="open_bff_dev" type="AUTO_DETECTED" />
+      <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="open_bff_stage" type="AUTO_DETECTED" />
       <mapping pattern="open_bff_prod" type="AUTO_DETECTED" />
       <mapping pattern="nyheter_inrikes_avanza-rostar-mot-ansvarsfrihet-for-ericsson-en-stor-besvikelse" type="AUTO_DETECTED" />
