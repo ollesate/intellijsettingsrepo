@@ -26,6 +26,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="BookmarksView.Rename" />
   <action id="ChangesView.Diff" />
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -53,6 +54,10 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="ContextHelp" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
@@ -88,6 +93,9 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -110,6 +118,8 @@
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="alt escape" />
@@ -127,14 +137,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl up" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+  </action>
   <action id="NextTab" />
   <action id="OptimizeImports" />
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
-  <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="ParameterInfo" />
   <action id="PreviousTab" />
   <action id="ProjectViewChangeView">
     <keyboard-shortcut first-keystroke="shift alt 1" />
@@ -142,6 +153,9 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt 8" />
     <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="RerunTests" />
   <action id="Resume">
@@ -162,10 +176,12 @@
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="Table-startEditing" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl f8" />
     <keyboard-shortcut first-keystroke="alt f4" />
   </action>
+  <action id="Tree-startEditing" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UpdateRunningApplication" />
