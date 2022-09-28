@@ -128,6 +128,9 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+  </action>
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -136,9 +139,6 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
-  <action id="NewFile">
-    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
   </action>
   <action id="NextTab" />
   <action id="OptimizeImports" />
