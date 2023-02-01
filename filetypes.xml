@@ -20,6 +20,7 @@
       <mapping ext="srt" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tsx" approved="true" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
