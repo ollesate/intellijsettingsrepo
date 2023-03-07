@@ -26,6 +26,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="BookmarksView.Rename" />
   <action id="ChangesView.Diff" />
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -34,9 +35,7 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="alt #10000a7" />
-  </action>
+  <action id="CloseActiveTab" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
@@ -47,6 +46,7 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="CollapseRegionRecursively" />
   <action id="Compare.LastVersion">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -54,6 +54,10 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="ContextHelp" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
@@ -65,6 +69,12 @@
   <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="Django.RunManageTaskAction" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
@@ -82,6 +92,9 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -105,8 +118,18 @@
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="alt escape" />
+    <keyboard-shortcut first-keystroke="alt #10000a7" />
+  </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
   </action>
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MoveStatementDown">
@@ -152,10 +175,12 @@
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="Table-startEditing" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl f8" />
     <keyboard-shortcut first-keystroke="alt f4" />
   </action>
+  <action id="Tree-startEditing" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UpdateRunningApplication" />

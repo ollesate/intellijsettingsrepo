@@ -2,18 +2,25 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="open_bff_dev" type="AUTO_DETECTED" />
+      <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="open_bff_stage" type="AUTO_DETECTED" />
       <mapping pattern="open_bff_prod" type="AUTO_DETECTED" />
-      <mapping pattern="as_bff_stage" type="AUTO_DETECTED" />
+      <mapping pattern="nyheter_inrikes_avanza-rostar-mot-ansvarsfrihet-for-ericsson-en-stor-besvikelse" type="AUTO_DETECTED" />
       <mapping pattern="as_bff_prod" type="AUTO_DETECTED" />
-      <mapping pattern="as_bff_dev" type="AUTO_DETECTED" />
       <mapping pattern="doc" type="AUTO_DETECTED" />
+      <mapping pattern="as_bff_stage" type="AUTO_DETECTED" />
+      <mapping pattern="nyheter_lokalt_norrbotten_gruvliga-fragan-kallakkonflikten-pa-60-sekunder" type="AUTO_DETECTED" />
       <mapping pattern="article_compare" type="AUTO_DETECTED" />
+      <mapping pattern="nyheter_konsument_" type="AUTO_DETECTED" />
+      <mapping pattern="nyheter_utrikes_fem-viktiga-handelser-i-ukrainakriget" type="AUTO_DETECTED" />
+      <mapping pattern="as_bff_dev" type="AUTO_DETECTED" />
       <mapping pattern="article_screenshot" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="srt" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tsx" approved="true" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>

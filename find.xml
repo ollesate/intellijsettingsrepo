@@ -11,9 +11,7 @@
     <mask>*Api.kt</mask>
     <mask>*.xml</mask>
     <mask>*Usecase*</mask>
-    <mask>*gradle</mask>
     <mask>*json</mask>
-    <mask>*xml</mask>
     <mask>*graphql</mask>
     <mask>*kt</mask>
     <mask>*Test.kt</mask>
@@ -21,5 +19,13 @@
     <mask>*Test*</mask>
     <mask>*.js</mask>
     <mask>build.gradle</mask>
+    <mask>*.kt</mask>
+    <mask>*.kts</mask>
+    <mask>*Activity*</mask>
+    <mask>*gradle</mask>
+    <mask>*xml</mask>
+    <mask>*gradle*</mask>
+    <mask>*xml*</mask>
+    <mask>*build.gradle</mask>
   </component>
 </application>
