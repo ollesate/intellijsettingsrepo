@@ -146,7 +146,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="PreviousTab" />
   <action id="ProjectViewChangeView">
