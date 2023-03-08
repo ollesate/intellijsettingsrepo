@@ -5,6 +5,14 @@
     <EXCLUDED_PACKAGE NAME="com.google.android.exoplayer2.util.Log" />
   </component>
   <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="vcs.code.vision" />
@@ -15,8 +23,13 @@
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="kotlin.references.types.hints" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
+      <ObjectiveC.oc.type.hints>
+        <ClionClangTypeHintSettings>
+          <option name="showObviousTypes" value="true" />
+        </ClionClangTypeHintSettings>
+      </ObjectiveC.oc.type.hints>
       <kotlin.kotlin.references.types.hints>
         <Settings>
           <option name="functionReturnType" value="true" />
