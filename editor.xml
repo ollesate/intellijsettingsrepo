@@ -3,6 +3,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.amazonaws.logging.Log" />
     <EXCLUDED_PACKAGE NAME="com.google.android.exoplayer2.util.Log" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.logging" />
   </component>
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
