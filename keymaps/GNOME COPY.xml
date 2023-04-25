@@ -128,6 +128,18 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ChopArgumentListIntention">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ChopParameterListIntention">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.JoinArgumentListIntention">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.JoinParameterListIntention">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt n" />
   </action>
@@ -201,5 +213,6 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="context.load" />
   <action id="openAssertEqualsDiff" />
 </keymap>
