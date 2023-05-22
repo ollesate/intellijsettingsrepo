@@ -23,7 +23,6 @@
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
-    <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="BookmarksView.Rename" />
@@ -75,9 +74,13 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
   </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="EditorScrollToCenter" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl minus" />
@@ -171,6 +174,7 @@
   <action id="RerunTests" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="shift alt r" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -189,8 +193,8 @@
   </action>
   <action id="Table-startEditing" />
   <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="ctrl f8" />
     <keyboard-shortcut first-keystroke="alt f4" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="Tree-startEditing" />
   <action id="TypeHierarchy" />
