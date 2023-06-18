@@ -183,7 +183,7 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunToCursor">
-    <mouse-shortcut keystroke="button5" />
+    <mouse-shortcut keystroke="shift button3" />
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="SelectIn">
