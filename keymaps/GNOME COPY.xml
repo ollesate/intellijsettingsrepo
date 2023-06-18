@@ -93,7 +93,6 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Git.Rename.Local.Branch">
@@ -183,6 +182,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunToCursor">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="ScrollTreeToCenter" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="shift alt 1" />
