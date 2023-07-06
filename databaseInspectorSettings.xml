@@ -1,0 +1,5 @@
+<application>
+  <component name="DatabaseInspectorSettings">
+    <option name="offlineModeEnabled" value="false" />
+  </component>
+</application>
