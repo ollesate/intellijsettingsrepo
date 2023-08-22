@@ -4,8 +4,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="a2fa0fad" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-a2fa0fad-95mYVw._adb-tls-connect._tcp" />
           </Key>
         </key>
         <name value="OnePlus GM1913" />
@@ -15,8 +15,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-a2fa0fad-95mYVw._adb-tls-connect._tcp" />
+            <type value="SERIAL_NUMBER" />
+            <value value="a2fa0fad" />
           </Key>
         </key>
         <name value="OnePlus GM1913" />
