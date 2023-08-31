@@ -4,19 +4,18 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-a2fa0fad-95mYVw._adb-tls-connect._tcp" />
+            <type value="SERIAL_NUMBER" />
+            <value value="a2fa0fad" />
           </Key>
         </key>
-        <name value="OnePlus GM1913" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="a2fa0fad" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-a2fa0fad-95mYVw._adb-tls-connect._tcp" />
           </Key>
         </key>
         <name value="OnePlus GM1913" />
