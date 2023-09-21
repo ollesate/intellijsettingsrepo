@@ -80,6 +80,8 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorPasteFromX11" />
   <action id="EditorScrollToCenter" />
   <action id="EvaluateExpression">
@@ -154,6 +156,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl up" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
   <action id="NextTab" />
   <action id="OptimizeImports" />
   <action id="OverrideMethods">
@@ -161,6 +166,9 @@
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="PreviousTab" />
   <action id="ProjectViewChangeView">
