@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine NielsenAPPSDK" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine NielsenAPPSDK" />
+        <option value="package:mine playhead" />
+        <option value="package:mine PLAYHEAD" />
+        <option value="package:mine Nielsen" />
         <option value="package:mine " />
+        <option value="package:mine NielsenDebug" />
       </list>
     </option>
   </component>
