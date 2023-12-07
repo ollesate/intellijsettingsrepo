@@ -77,6 +77,7 @@
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="EditorDecreaseFontSizeGlobal" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
@@ -165,6 +166,7 @@
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
+  <action id="NextEditorTab" />
   <action id="NextTab" />
   <action id="OptimizeImports" />
   <action id="OverrideMethods">
@@ -176,6 +178,7 @@
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
   <action id="ProjectViewChangeView">
     <keyboard-shortcut first-keystroke="shift alt 1" />
